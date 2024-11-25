@@ -11,3 +11,15 @@ SELECT Max(Salary)
 FROM employees
 WHERE salary <(SELECT max(salary) FROM employees);
 
+
+
+-- OPTION 2
+-- This query retrieves the second highest distinct salary from the employees table.
+-- It orders the salaries in descending order, skips the first highest salary (OFFSET 1), 
+-- and selects the next one (LIMIT 1).
+
+SELECT DISTINCT Salary
+FROM employees
+ORDER BY Salary DESC
+LIMIT 1 OFFSET 1;
+
