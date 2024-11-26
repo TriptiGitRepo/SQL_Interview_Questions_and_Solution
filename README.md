@@ -1,6 +1,6 @@
-# SQL_Interview_with_Solutions
+# SQL_Interview_Questions_and_Solutions
 
-SQL_Interview_with_Solutions is a repository designed to help individuals prepare for SQL-based technical interviews. It contains a variety of SQL queries and solutions that cover common interview topics, ranging from beginner-friendly basics to advanced query techniques.
+SQL_Interview_Questions_and_Solutions is a repository designed to help individuals prepare for SQL-based technical interviews. It contains a variety of SQL queries and solutions that cover common interview topics, ranging from beginner-friendly basics to advanced query techniques.
 
 ## **Features**
 - Interview-Focused Problems: Queries and solutions tailored to common SQL interview questions.
